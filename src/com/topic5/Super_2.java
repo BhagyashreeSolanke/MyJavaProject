@@ -1,6 +1,7 @@
 package com.topic5;
 
-class Laptop{
+class Laptop
+{
 	Laptop(String RAM){
 		System.out.println("Laptop"+" "+RAM);
 	}

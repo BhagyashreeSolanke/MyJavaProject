@@ -35,7 +35,7 @@ public class Hier_1 {
 		v.show();
 		
 		Vehical a =new Truck();
-		v.show();
+		a.show();
 
 	}
 
